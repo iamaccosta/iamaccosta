@@ -1,6 +1,6 @@
 ### Hey there, I’m André Costa! 👋
 
-- 💻 3nd year student in Informatics and Computing Engineering on FEUP. Currently, my GPA is 14.9.
+- 💻 3rd year student in Informatics and Computing Engineering on FEUP. Currently, my GPA is 14.9.
 - 💡 I’m currently learning DevOps.
 
 <div style="display: inline_block"><br>
