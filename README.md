@@ -1,6 +1,6 @@
 ### Hey there, I’m André Costa! 👋
 
-- 💻 3rd year student in Informatics and Computing Engineering on FEUP. Currently, my GPA is 14.99.
+- 💻 I hold a Bachelor's degree in Informatics and Computing Engineering from FEUP, achieving a final GPA of 15.23. Currently, I am a first-year student pursuing a Master's degree in the same field at FEUP, with an ongoing GPA of _.
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Andre-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
